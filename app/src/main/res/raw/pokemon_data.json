@@ -1,0 +1,1226 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 0.5,
+      "Electric": 0.5,
+      "Grass": 0.25
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 0.5,
+      "Electric": 0.5,
+      "Grass": 0.25
+    }
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 0.5,
+      "Electric": 0.5,
+      "Grass": 0.25
+    }
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "types": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 2.0,
+      "Electric": 1.0,
+      "Grass": 0.5
+    }
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "types": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 2.0,
+      "Electric": 1.0,
+      "Grass": 0.5
+    }
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "types": ["Fire", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 2.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "typeEffectiveness": {
+      "Fire": 0.5,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 2.0
+    }
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "typeEffectiveness": {
+      "Fire": 0.5,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 2.0
+    }
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "typeEffectiveness": {
+      "Fire": 0.5,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 2.0
+    }
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "types": ["Bug"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "types": ["Bug"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "types": ["Bug", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "types": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "types": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "types": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "types": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "types": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 21,
+    "name": "Spiro",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "types": ["Electric"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Electric": 1.0
+    }
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "types": ["Electric"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Electric": 1.0
+    }
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "types": ["Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "types": ["Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "types": ["Poison", "Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "types": ["Poison", "Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "types": ["Fairy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Fairy": 1.0
+    }
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "types": ["Fairy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Fairy": 1.0
+    }
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "types": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5
+    }
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "types": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5
+    }
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "types": ["Normal", "Fairy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Fairy": 1.0
+    }
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "types": ["Normal", "Fairy"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Fairy": 1.0
+    }
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "types": ["Poison", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "types": ["Poison", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "types": ["Bug", "Grass"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Bug": 1.0
+    }
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "types": ["Bug", "Grass"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Bug": 1.0
+    }
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "types": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Bug": 1.0
+    }
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "types": ["Bug", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Bug": 1.0
+    }
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "types": ["Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "types": ["Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "types": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "types": ["Normal"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 2.0
+    }
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 2.0
+    }
+  },
+  {
+    "id": 56,
+    "name": "Machop",
+    "types": ["Fighting"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Fighting": 1.0
+    }
+  },
+  {
+    "id": 57,
+    "name": "Machoke",
+    "types": ["Fighting"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Fighting": 1.0
+    }
+  },
+  {
+    "id": 58,
+    "name": "Machamp",
+    "types": ["Fighting"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Fighting": 1.0
+    }
+  },
+  {
+    "id": 59,
+    "name": "Bellsprout",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 60,
+    "name": "Weepinbell",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 61,
+    "name": "Victreebel",
+    "types": ["Grass", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "typeEffectiveness": {
+      "Fire": 2.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 62,
+    "name": "Tentacool",
+    "types": ["Water", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 63,
+    "name": "Tentacruel",
+    "types": ["Water", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 64,
+    "name": "Geodude",
+    "types": ["Rock", "Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Rock": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 65,
+    "name": "Graveler",
+    "types": ["Rock", "Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Rock": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 66,
+    "name": "Golem",
+    "types": ["Rock", "Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Rock": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 67,
+    "name": "Ponyta",
+    "types": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5
+    }
+  },
+  {
+    "id": 68,
+    "name": "Rapidash",
+    "types": ["Fire"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5
+    }
+  },
+  {
+    "id": 69,
+    "name": "Slowpoke",
+    "types": ["Water", "Psychic"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Psychic": 1.0
+    }
+  },
+  {
+    "id": 70,
+    "name": "Slowbro",
+    "types": ["Water", "Psychic"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Psychic": 1.0
+    }
+  },
+  {
+    "id": 71,
+    "name": "Magnemite",
+    "types": ["Electric", "Steel"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Electric": 1.0,
+      "Steel": 1.0
+    }
+  },
+  {
+    "id": 72,
+    "name": "Magneton",
+    "types": ["Electric", "Steel"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Electric": 1.0,
+      "Steel": 1.0
+    }
+  },
+  {
+    "id": 73,
+    "name": "Farfetch'd",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 74,
+    "name": "Doduo",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 75,
+    "name": "Dodrio",
+    "types": ["Normal", "Flying"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Flying": 1.0
+    }
+  },
+  {
+    "id": 76,
+    "name": "Seel",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 77,
+    "name": "Dewgong",
+    "types": ["Water", "Ice"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Ice": 1.0
+    }
+  },
+  {
+    "id": 78,
+    "name": "Grimer",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 79,
+    "name": "Muk",
+    "types": ["Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0
+    }
+  },
+  {
+    "id": 80,
+    "name": "Shellder",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 81,
+    "name": "Cloyster",
+    "types": ["Water", "Ice"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Ice": 1.0
+    }
+  },
+  {
+    "id": 82,
+    "name": "Gastly",
+    "types": ["Ghost", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Ghost": 1.0
+    }
+  },
+  {
+    "id": 83,
+    "name": "Haunter",
+    "types": ["Ghost", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Ghost": 1.0
+    }
+  },
+  {
+    "id": 84,
+    "name": "Gengar",
+    "types": ["Ghost", "Poison"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Poison": 1.0,
+      "Ghost": 1.0
+    }
+  },
+  {
+    "id": 85,
+    "name": "Onix",
+    "types": ["Rock", "Ground"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Rock": 1.0,
+      "Ground": 1.0
+    }
+  },
+  {
+    "id": 86,
+    "name": "Drowzee",
+    "types": ["Psychic"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Psychic": 1.0
+    }
+  },
+  {
+    "id": 87,
+    "name": "Hypno",
+    "types": ["Psychic"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0,
+      "Psychic": 1.0
+    }
+  },
+  {
+    "id": 88,
+    "name": "Krabby",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 89,
+    "name": "Kingler",
+    "types": ["Water"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 90,
+    "name": "Voltorb",
+    "types": ["Electric"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 91,
+    "name": "Electrode",
+    "types": ["Electric"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 1.0
+    }
+  },
+  {
+    "id": 92,
+    "name": "Exeggcute",
+    "types": ["Grass", "Psychic"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Psychic": 1.0
+    }
+  },
+  {
+    "id": 93,
+    "name": "Exeggutor",
+    "types": ["Grass", "Psychic"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Psychic": 1.0
+    }
+  },
+  {
+    "id": 94,
+    "name": "Exeggutor (Alolan)",
+    "types": ["Grass", "Dragon"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Dragon": 1.0
+    }
+  },
+  {
+    "id": 95,
+    "name": "Exeggutor (Galarian)",
+    "types": ["Grass", "Psychic"],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "typeEffectiveness": {
+      "Fire": 1.0,
+      "Water": 1.0,
+      "Electric": 1.0,
+      "Grass": 0.5,
+      "Psychic": 1.0
+    }
+  }
+]
